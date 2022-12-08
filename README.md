@@ -38,7 +38,7 @@ PS C:\react> npm start
 
 <br/>
 
-2. Build Commands
+3. Build Commands
 
 - npm run build - Build's react files into static files and places into './build' directory. Note: Configuration for this is done via WebPack.
 
